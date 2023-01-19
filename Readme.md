@@ -12,7 +12,7 @@ then run the server.js => using "npm start"
 # Testing API
 After running the server, test the API in localhost on port 3000
 
-* To the stored video data in a paginated response sorted in
+* To get the stored video data in a paginated response sorted in
 descending order of published datetime, run similar request to 'http://localhost:3000/fetch-videos?page=2&limit=10' in browser
 
 * to search the stored videos using their title and description, run 'http://localhost:3000/search?title=something&description=something'
